@@ -5,7 +5,7 @@
 
 ## : Intro : 자기소개
 ### 사용 가능 기술 스택
-> Back-end : Java / Python / JavaScript
+> Back-end : Java / Python / JavaScript <br>
 > DB : Oracle
 > Server : Apache Tomcat / MyBatis
 > Tools : Eclipse / Visual Studio Code
