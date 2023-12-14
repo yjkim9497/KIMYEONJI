@@ -6,10 +6,10 @@
 ## : Intro : 자기소개
 ### 사용 가능 기술 스택
 > Back-end : Java / Python / JavaScript <br>
-> DB : Oracle
-> Server : Apache Tomcat / MyBatis
-> Tools : Eclipse / Visual Studio Code
-> Collaboration : Git
+> DB : Oracle <br>
+> Server : Apache Tomcat / MyBatis <br>
+> Tools : Eclipse / Visual Studio Code <br>
+> Collaboration : Git <br>
 >
 ### 보유 자격증
 > Adsp ( 데이터 분석 준전문가 )
