@@ -25,7 +25,7 @@
 </br>
 
 ## : Projects : 진행 프로젝트
-### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-BigData-19/dicogram.git)
+### 1. [첫번째 포트폴리오](https://github.com/SMHRD-2021-KDT-BigData-19/dicogram.git)
 >소개 : 광주광역시 시정 대시보드 <br>
 >개발 기간 / 인원 : 2023.11.28 ~ 2023.12.13 / 3인 프로젝트 <br>
 >
@@ -33,4 +33,8 @@
 >Java 11 / Python / Javascript / Oracle / j.Query /  
 >Html / Css / Chart.js / Tomcat <br>
 >
+>개인 기여 :
+>일자리 / 공약현황 / 시정뉴스 / 카드뉴스 <br>
+>데이터 전처리 / 기능통합 <br>
+>작성 문서 : 테이블 명세서 / 화면 설계서 / 시스템 아키텍쳐 <br>
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SEE) 참고 <br>
