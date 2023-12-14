@@ -4,14 +4,14 @@
 </br>
 
 ## : Intro : 자기소개
-> 사용 가능 기술 스택
+### 사용 가능 기술 스택
 > Back-end : Java / Python / JavaScript
 > DB : Oracle
 > Server : Apache Tomcat / MyBatis
 > Tools : Eclipse / Visual Studio Code
 > Collaboration : Git
 >
-> 보유 자격증
+### 보유 자격증
 > Adsp ( 데이터 분석 준전문가 )
 > SQLD ( SQL 개발자 )
 
