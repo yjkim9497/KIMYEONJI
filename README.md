@@ -20,7 +20,7 @@
 </br>
 
 ## : Contact : 연락처
-- 이메일: yj009977@gmail.com
+- 이메일: 
 - 블로그: 
 - Github: https://github.com/yjkim9497
 
