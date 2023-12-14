@@ -8,7 +8,6 @@
 >
 ### 사용 가능 기술 스택
 | Back-end |  Java / Python / JavaScript | 
-| ---------| ----------------------------| 
 |  DB |  Oracle | 
 |  Server |  Apache Tomcat / MyBatis | 
 |  Tools |  Eclipse / Visual Studio Code | 
