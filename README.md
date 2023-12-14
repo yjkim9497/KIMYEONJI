@@ -4,6 +4,8 @@
 </br>
 
 ## : Intro : 자기소개
+### 학력사항
+> 경희대 경영학부 졸업
 ### 사용 가능 기술 스택
 > Back-end : Java / Python / JavaScript <br>
 > DB : Oracle <br>
