@@ -7,11 +7,12 @@
 ### 학력사항
 >
 ### 사용 가능 기술 스택
-> Back-end : Java / Python / JavaScript <br>
-> DB : Oracle <br>
-> Server : Apache Tomcat / MyBatis <br>
-> Tools : Eclipse / Visual Studio Code <br>
-> Collaboration : Git <br>
+| Back-end |  Java / Python / JavaScript | 
+| ---------| ----------------------------| 
+|  DB |  Oracle | 
+|  Server |  Apache Tomcat / MyBatis | 
+|  Tools |  Eclipse / Visual Studio Code | 
+|  Collaboration |  Git | 
 >
 ### 보유 자격증
 > Adsp ( 데이터 분석 준전문가 ) <br>
