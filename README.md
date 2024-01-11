@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?
-type=rounded&color=timeGradient&text=Welcome%20to%20YeonJi's%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-
 # 김연지 포트폴리오
 >Java & Python 기반 백엔드 개발자 <br>
 >![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjkim9497&show_icons=true&theme=nord)
