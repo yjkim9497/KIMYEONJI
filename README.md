@@ -1,5 +1,5 @@
 # 김연지 포트폴리오
->Java & Python 기반 백엔드 개발자
+>Java & Python 기반 백엔드 개발자 <br>
 >![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjkim9497&show_icons=true&theme=radical)
 
 </br>
