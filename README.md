@@ -22,8 +22,8 @@
 </br>
 
 ## : Contact : 연락처
-- 이메일: 
-- 블로그: 
+- 이메일: yj009977@hanmail.net
+- 블로그: https://blog.naver.com/rladuswl54
 - Github: https://github.com/yjkim9497
 
 </br>
